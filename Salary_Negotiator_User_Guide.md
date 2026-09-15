@@ -18,7 +18,7 @@ This tool is a single web page (salary_negotiator.html) that turns a real offer,
 | Setting | Why you need it / Where to find it |
 |---|---|
 | Web search | Needed for market compensation research and company-specific compensation research — both sections require real, sourced data, not an estimate. |
-| Code execution and file creation | Only needed if you choose the downloadable Word document output format. |
+| Code execution and file creation | Always needed — every guide now comes back as a downloadable Word document. |
 
 ## 1. How This Fits With the Other Tools
 
@@ -65,10 +65,9 @@ Paste or describe a real competing offer, if you actually have one. The hint tex
 7. **A Written Counter-Offer Draft** — an actual email or a set of talking points for a call, grounded firmly in the real numbers and differentiators established above. Never references a competing offer, dollar figure, or qualification that wasn't actually given.
 8. **Negotiation Etiquette Notes** — practical reminders: don't negotiate against yourself, get the final agreed number in writing before resigning anywhere else, calibrate how hard to push against how genuinely excited you are about the role, and why honesty about competing offers is strategically safer, not just the ethical baseline.
 
-## 8. Output Format
+## 8. Output
 
-- **Downloadable Word document** (default) — a reference guide you'll want on hand during the actual negotiation call or email exchange, with a one-page Quick Reference summary (market range, total-comp translation, top framing options) at the very top.
-- **Table in chat** — the same content, presented directly in the response instead.
+Every guide always comes back as a **downloadable Word document (.docx)** — there's no chat-table option anymore. It's a reference guide you'll want on hand during the actual negotiation call or email exchange, with a one-page Quick Reference summary (market range, total-comp translation, top framing options) at the very top. This requires the **Code execution and file creation** setting (Settings → Capabilities) to be on; without it, Claude will fall back to a chat response.
 
 ## 9. Typical Workflow, Start to Finish
 

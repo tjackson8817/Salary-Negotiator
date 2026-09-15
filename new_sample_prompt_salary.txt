@@ -2,36 +2,42 @@ Please execute this task directly — research and build the actual negotiation 
 
 I have a real job offer (or am close to one) and want an actual negotiation plan built from real market data, real research on this specific company, my real qualifications, and the real offer details I'm giving you below — not generic "just ask for more" advice.
 
-- Company: Schneider Electric
-- Role: Director, OT Cybersecurity Advisory Services
-- Location: Dallas, TX
+- Company: Gainsight
+- Role: Director, Customer Success
+- Location: Remote (US)
 - My resume:
-Tom Jackson
-15+ years in OT (Operational Technology) cybersecurity consulting and practice-building.
-- EY (2016-2020): Founded and scaled EY's global OT cybersecurity practice from zero to a $10-30M pipeline.
-- Schneider Electric (2014-2016): Principal Consultant, later Director with full P&L accountability.
-- Accenture (2021-2022): Built and scaled Accenture's global OT cybersecurity capability.
-- Booz Allen Hamilton (2025-2026): Senior Manager, OT Cybersecurity / Health & Life Sciences.
-Certifications: CISSP, GICSP.
-- The offer so far:
-Verbal offer: $175K base, 15% target bonus, $10K sign-on, standard benefits, no equity discussed yet. Start date flexible.
-- My target or walk-away number, if I have one: $190K base or equivalent total comp
-- What matters most to me beyond salary: Remote flexibility matters more to me than a few thousand more in base salary
-- Competing offer: Written offer from a competing OT security consultancy: $180K base, 10% target bonus, no sign-on bonus, fully remote.
+Sarah Chen
+Senior Account Executive, Northline Software (2020-present)
+- Manage a portfolio of 30 enterprise accounts across financial services and healthcare verticals
+- Closed $4.2M in new ARR in 2025, 118% of quota
+- Led cross-functional deal team (Solutions Engineering, Legal, Finance) on 6-figure and 7-figure deals
+- Built executive relationships with VP and C-level stakeholders at named accounts
+- Maintained 94% forecast accuracy across 8 consecutive quarters
+- Salesforce power user, built and maintained team dashboards for pipeline reporting
+- Primary point of contact for renewal conversations on top 5 accounts for the last two years, though renewals technically sit with a separate CS team
+
+Account Executive, DataFlow Inc (2017-2020)
+- Grew territory from $0 to $1.8M ARR over 3 years
+- Consistently ranked top 3 of 22 reps on the team
+- Trained 4 new hires on discovery and objection handling
+
+B.A. Communications, University of Texas at Austin
+- The offer so far: not given — I may not have a formal offer yet. Build the market/company research and differentiator sections regardless, and note plainly that the total-compensation translation and counter-offer draft need real offer details once I have them.
+- Competing offer: none given — I do not have one. Do not imply, hint at, or invent one anywhere in this guide.
 
 Build the guide in this structure:
 
 1. Market Data Snapshot — research real, current compensation data for this role, seniority level implied by my resume/the role title, and location. Treat the U.S. Bureau of Labor Statistics (bls.gov) and the current-year Robert Half Salary Guide as primary sources when they cover this role, since both are methodologically transparent and not solely reliant on self-reported data. Use Salary.com, Payscale, SalaryExpert, and levels.fyi/Glassdoor as secondary, directional data points to build a range around the primary figures — not as the sole basis for the number, since these can skew toward self-reported or incomplete data. Also check comparable job postings with disclosed ranges (increasingly required by state pay-transparency laws), which are often the single most negotiation-relevant data point since they reflect actual budget for this exact role. Present a specific researched range, name which source(s) each figure came from, and flag if the range leans heavily on secondary sources because primary data wasn't available. Never present a guessed or estimated number as if it were sourced.
 
-2. Company-Specific Compensation Research — search specifically for what Schneider Electric pays for this role or comparable roles: company-filtered Glassdoor/levels.fyi data, public H-1B LCA disclosure data if applicable and findable, Blind or similar forum mentions, recent news about the company's compensation philosophy, layoffs, or raises. This is often thinner than general market data — if you can't find company-specific data, say so plainly rather than presenting the general market data from Section 1 as if it were specific to this company.
+2. Company-Specific Compensation Research — search specifically for what Gainsight pays for this role or comparable roles: company-filtered Glassdoor/levels.fyi data, public H-1B LCA disclosure data if applicable and findable, Blind or similar forum mentions, recent news about the company's compensation philosophy, layoffs, or raises. This is often thinner than general market data — if you can't find company-specific data, say so plainly rather than presenting the general market data from Section 1 as if it were specific to this company.
 
-3. Total Compensation Translation — using the offer details I gave you, translate every component (base, bonus target, equity/RSU value and vesting schedule, sign-on bonus, 401k match, insurance/benefits value, PTO, remote-work value, relocation) into one comparable total-compensation number. Do the same for the competing offer I gave you, and compare the two on an apples-to-apples basis. If I didn't give you offer details, skip the calculation and instead give me a short template of what to gather once I have a real offer.
+3. Total Compensation Translation — using the offer details I gave you, translate every component (base, bonus target, equity/RSU value and vesting schedule, sign-on bonus, 401k match, insurance/benefits value, PTO, remote-work value, relocation) into one comparable total-compensation number. If I didn't give you offer details, skip the calculation and instead give me a short template of what to gather once I have a real offer.
 
 4. My Differentiators — using only what's actually documented in my resume, identify the specific qualifications, credentials, or track record most likely to justify landing above the initial number for this specific role. CRITICAL: do not invent, embellish, or infer achievements beyond what my resume actually states — if my resume doesn't strongly support a differentiator that would help here, say so honestly rather than manufacturing one.
 
-5. Negotiation Levers Beyond Base Salary — a checklist of what else can realistically move if base salary itself turns out to be capped: sign-on bonus, additional equity, accelerated performance review timeline, relocation assistance, start-date flexibility, title. Weight this list toward what I said matters most to me: "Remote flexibility matters more to me than a few thousand more in base salary"
+5. Negotiation Levers Beyond Base Salary — a checklist of what else can realistically move if base salary itself turns out to be capped: sign-on bonus, additional equity, accelerated performance review timeline, relocation assistance, start-date flexibility, title.
 
-6. The Counter — Framing Options — 2-3 concrete phrasing options for the actual counter-offer ask, each tied to the real market/company data, my real differentiators, and my real target number above, and referencing the competing offer where it genuinely strengthens the ask. These should sound like something a real person would actually say, not a negotiation-textbook script.
+6. The Counter — Framing Options — 2-3 concrete phrasing options for the actual counter-offer ask, each tied to the real market/company data, my real differentiators, and my real target number above. These should sound like something a real person would actually say, not a negotiation-textbook script.
 
 7. A Written Counter-Offer Draft — an actual email or a set of talking points for a call, grounded firmly in the real numbers and differentiators established above. CRITICAL: do not reference a competing offer, a specific dollar figure, or a specific qualification that wasn't actually given to you in this prompt.
 

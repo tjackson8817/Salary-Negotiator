@@ -215,14 +215,7 @@
 
       <fieldset>
         <legend>5 · Output</legend>
-        <div class="field">
-          <label>Output format</label>
-          <div class="radio-row">
-            <label class="radio-opt"><input type="radio" name="outputFormat" value="docx" checked> Downloadable Word document</label>
-            <label class="radio-opt"><input type="radio" name="outputFormat" value="table"> Table in chat</label>
-          </div>
-          <p class="hint">A downloadable doc defaults on here specifically — this is a reference guide you'll want on hand during the actual negotiation call or email exchange.</p>
-        </div>
+        <p class="hint" style="margin-top:0;">Results always come back as a downloadable Word document (.docx) — this is a reference guide you'll want on hand during the actual negotiation call or email exchange. Requires the Code execution and file creation setting in Claude (Settings → Capabilities).</p>
       </fieldset>
 
       <div class="banner">
@@ -263,7 +256,6 @@ function buildPrompt(){
   const targetNumber = val('targetNumber');
   const priorities = val('priorities');
   const competingOffer = val('competingOffer');
-  const outputFormat = radioVal('outputFormat');
 
   if(!company && !role){
     return null;
@@ -318,11 +310,7 @@ function buildPrompt(){
   lines.push(`- Never invent details about the offer itself beyond what I actually gave you — if something is unclear or missing (e.g. vesting schedule not specified), note that it's missing and should be clarified with the employer, rather than assuming a typical value.`);
   lines.push(`- Ground every market and company figure in real, sourced search results, never a guessed number.`);
   lines.push(``);
-  if(outputFormat === 'docx'){
-    lines.push(`Format the result as a downloadable Word document (.docx) with clear section headings matching the structure above. Include a one-page "Quick Reference" summary at the very top — the researched market range, the total-comp translation (if calculated), and the top 2-3 framing options for the counter — so I have something skimmable right before the actual conversation, with full detail below it.`);
-  } else {
-    lines.push(`Present the result directly in your response, organized under the section headings above. Include a short "Quick Reference" summary at the very top — the researched market range, the total-comp translation (if calculated), and the top 2-3 framing options for the counter.`);
-  }
+  lines.push(`Format the result as a downloadable Word document (.docx) with clear section headings matching the structure above. Include a one-page "Quick Reference" summary at the very top — the researched market range, the total-comp translation (if calculated), and the top 2-3 framing options for the counter — so I have something skimmable right before the actual conversation, with full detail below it.`);
 
   return lines.join("\n");
 }

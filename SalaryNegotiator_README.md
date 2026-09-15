@@ -33,7 +33,7 @@ Every tool in this family has a "don't fabricate" rule. This one has real-world 
 
 ## What the guide covers
 
-1. **Market Data Snapshot** — real, sourced compensation research for the role/level/location.
+1. **Market Data Snapshot** — real, sourced compensation research for the role/level/location, treating BLS.gov and the current-year Robert Half Salary Guide as primary sources (methodologically transparent, not self-reported) and Salary.com/Payscale/levels.fyi/Glassdoor as secondary, directional data points, plus comparable disclosed job-posting ranges.
 2. **Company-Specific Compensation Research** — what this specific employer pays, where findable; says so plainly when it's thin rather than passing off general market data as company-specific.
 3. **Total Compensation Translation** — base, bonus, equity, sign-on, benefits, and more translated into one comparable number, compared against a competing offer only if you actually gave one.
 4. **Your Differentiators** — pulled from your actual resume, never invented.
